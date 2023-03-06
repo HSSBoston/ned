@@ -1,6 +1,6 @@
 # Ned: The Hydration Reminder 
 
-This is a device that remind the user to hydrate. It periodically reminds him/her by flashing a message board and playing music and an audio suggestion. 
+This is a Raspberry Pi device that reminds the user to hydrate. It periodically reminds him/her by flashing a message board and playing music and an audio suggestion. 
 
 ## Equipment
 
@@ -18,5 +18,26 @@ This is a device that remind the user to hydrate. It periodically reminds him/he
 - Made a Kintone database app to save several settings of Ned
 - Made a Python app to run Ned
 
+<p align="center">
+  <img src="images/kintone.jpg" width="500">
+  <img src="images/python.jpg" width="500">
+</p>
+
+## Life with Led 
+
+<p align="center">
+  <img src="images/design-thinking.jpg" width="500">
+</p>
+
 ## Demo
+
+<p align="center">
+  <img src="images/how-to.jpg" width="500">
+</p>
+
+
+
+https://user-images.githubusercontent.com/74394277/223197867-abc580cb-cf6c-4fa4-b6c3-a36d0a6dc205.mp4
+
+
 
