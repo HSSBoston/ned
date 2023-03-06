@@ -19,8 +19,8 @@ This is a Raspberry Pi device that reminds the user to hydrate. It periodically 
 - Made a Python app to run Ned
 
 <p align="center">
-  <img src="images/kintone.jpg">
-  <img src="images/python.jpg">
+  <img src="images/kintone.jpg" width="500">
+  <img src="images/python.jpg" width="500">
 </p>
 
 ## Life with Led 
@@ -32,7 +32,7 @@ This is a Raspberry Pi device that reminds the user to hydrate. It periodically 
 ## Demo
 
 <p align="center">
-  <img src="images/how-to.jpg">
+  <img src="images/how-to.jpg" width="500">
 </p>
 
 
