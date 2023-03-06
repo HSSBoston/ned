@@ -18,5 +18,15 @@ This is a device that remind the user to hydrate. It periodically reminds him/he
 - Made a Kintone database app to save several settings of Ned
 - Made a Python app to run Ned
 
+<p align="center">
+  <img src="images/kintone.jpg">
+  <img src="images/python.jpg">
+</p>
+
 ## Demo
+
+<p align="center">
+  <img src="images/how-to.jpg">
+</p>
+
 
