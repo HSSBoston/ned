@@ -23,7 +23,7 @@ This is a Raspberry Pi device that reminds the user to hydrate. It periodically 
   <img src="images/python.jpg" width="500">
 </p>
 
-## Life with Led 
+## Life with Ned 
 
 <p align="center">
   <img src="images/design-thinking.jpg" width="500">
