@@ -6,9 +6,9 @@ GPIO.setmode(GPIO.BCM)
 
 GPIO.setup(21, GPIO.OUT)
 
-sdomain = "jxsboston"
-appId = "14"
-token = "UZWjKqzeNMLKbdO6wZ9MeZo1zlrq6D8QWH8bUd28"
+sdomain = ""
+appId = ""
+token = ""
 
 while True:
     try:
